@@ -13,3 +13,5 @@ agent-transcripts
 mcps
 terminals
 apps/web/.font-cache
+**/node_modules
+**/.next
